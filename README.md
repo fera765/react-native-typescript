@@ -15,9 +15,6 @@
   #  baixe as dependências
   yarn
   
-  #  Rodar Api lembrando onde está 192.168.0.7 temos que adicionar o endereço ip da sua maquinha na rede, tambem alterar o arquivo dentro de src/services/api.ts 
-  yarn json-server db.json -H 192.168.0.7 -p 3333
-  
   #  divirta-se!
   yarn android ou npx react-native run-android
 ```
